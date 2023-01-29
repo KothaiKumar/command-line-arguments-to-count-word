@@ -8,17 +8,19 @@ PC
 Anaconda - Python 3.7
 
 ## ALGORITHM: 
-### Step 1: Import sys
+## Step 1: Import sys
 
-### Step 2: Open file using open().
+## step 2: To get input through command line using sys.argv(file name)
+
+## Step 2: Open file using open().
  
-### Step 3: Use for loop
+## Step 3: Use for loop
 
-### Step 4: Use len to count number of words.
+## Step 4: Use len to count number of words.
 
-### Step 5: Give print.
+## Step 5: Give print.
 
-### Step 6: End of the program
+## Step 6: End of the program
 
 ## PROGRAM:
 ```python
@@ -31,7 +33,8 @@ with open(sys.argv[1],'r') as f1:
 print("word count in file = ",count)
 ```
 ## OUTPUT:
-![command_line_Args](https://user-images.githubusercontent.com/121215739/214852965-b5f0633a-00e8-404e-9edf-7a968c9dc9b0.png)
+![word_count](https://user-images.githubusercontent.com/121215739/215327732-e40ec0fa-3d64-4b61-b7e8-35d24575e142.jpg)
+
 
 
 
